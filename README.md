@@ -66,7 +66,7 @@ General steps:
 
 ## Credits
 - Inspired by Apple iOS Control Center
-- Built & maintained by **Xoeris Project**
+- Built & maintained by **Xoeris**
 - Special thanks to the Android modding community
 
 ---
